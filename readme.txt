@@ -1,12 +1,12 @@
 === Plugin Name ===
 Contributors: branded3
 Donate link: http://www.branded3.com/
-Tags: google, tracking, crawling
+Tags: analytics, tracking, seo, statistics, crawling, google, bing
 Requires at least: 3.1
 Tested up to: 3.1.1
 Stable tag: trunk
 
-The crawlrate tracker gives reporting on how often your site is crawled.
+The Crawl Rate tracker gives reporting on how often your site is crawled.
 
 == Description ==
 
@@ -16,17 +16,18 @@ Google Webmaster Central offers a nice graphing feature so you can see the crawl
 
 == Installation ==
 
-1. Upload `crawratetrackerv2` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload `crawlrate-tracker` folder to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress - named "The Crawl Rate Tracker".
 
 == Frequently Asked Questions ==
 
 == Screenshots ==
 
+1. The interface. screenshot-1.jpg
 
 == Changelog ==
 
-= 1.0 =
+= 2.0 =
 * Initial Release
 
 == Upgrade Notice ==
