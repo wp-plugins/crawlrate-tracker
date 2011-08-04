@@ -5,7 +5,7 @@ Plugin Name: The Crawl Rate Tracker
 Plugin URI: http://www.blogstorm.co.uk/wordpress-crawl-rate-tracker/
 Description: This is a plugin to log every visit by search engine robots, and show the results in different reports.
 Author: Patrick Altoft
-Version: 2.0
+Version: 2.0.1
 Author URI: http://www.blogstorm.co.uk
 
 Written By: Douglas Radburn - http://www.douglasradburn.co.uk
