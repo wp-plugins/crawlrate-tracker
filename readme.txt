@@ -27,6 +27,10 @@ Google Webmaster Central offers a nice graphing feature so you can see the crawl
 
 == Changelog ==
 
+= 2.01 =
+* Fixed a bug with the front end not providing the correct link to the wp-admin
+* Fixed a bug where page specific graphs were showing the "unique" legend.
+
 = 2.0 =
 * Initial Release
 
