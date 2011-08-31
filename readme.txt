@@ -4,7 +4,7 @@ Donate link: http://www.branded3.com/
 Tags: analytics, tracking, seo, statistics, crawling, google, bing
 Requires at least: 3.1
 Tested up to: 3.1.1
-Stable tag: 2.02
+Stable tag: 2.03
 
 The Crawl Rate tracker gives reporting on how often your site is crawled.
 
@@ -26,6 +26,9 @@ Google Webmaster Central offers a nice graphing feature so you can see the crawl
 1. The interface. screenshot-1.jpg
 
 == Changelog ==
+
+= 2.03 =
+* SQL Fixes
 
 = 2.0 =
 * Initial Release
